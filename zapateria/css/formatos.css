@@ -1,0 +1,44 @@
+body{
+    background-color:darkseagreen;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-attachment:fixed;
+   
+}
+img{
+    width: 500px;
+    
+    background-image: no-repeat;
+}
+.inline-block{
+    float:left ;
+    display: inline-block;
+    width: 300px; height: 100px;
+    
+}
+.no-lista li{
+    list-style: none;
+
+}
+.texto-centrado{
+ text-align: center;
+
+}
+.texto-tamano{
+ font-size:4em;   
+}
+
+.texto-menu{
+    font-size:2em;   
+   }
+   
+  section {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+  }
+
+  .presentacion{
+      font-size: larger;
+      font-style: oblique;
+  }
